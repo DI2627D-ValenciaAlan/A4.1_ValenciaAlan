@@ -1,0 +1,28 @@
+E:\c2026-27_DAM2_NOW\4.- CONTENIDOS-DIN\U4.Enlace datos-interfaz_ExamenOp2\4.- Actividades\A4.1_BindingEntreControles\4.- Para AULES\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\MainWindow.g.cs
+E:\c2026-27_DAM2_NOW\4.- CONTENIDOS-DIN\U4.Enlace datos-interfaz_ExamenOp2\4.- Actividades\A4.1_BindingEntreControles\4.- Para AULES\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\App.g.cs
+E:\c2026-27_DAM2_NOW\4.- CONTENIDOS-DIN\U4.Enlace datos-interfaz_ExamenOp2\4.- Actividades\A4.1_BindingEntreControles\4.- Para AULES\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker_Content.g.cs
+E:\c2026-27_DAM2_NOW\4.- CONTENIDOS-DIN\U4.Enlace datos-interfaz_ExamenOp2\4.- Actividades\A4.1_BindingEntreControles\4.- Para AULES\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker_MarkupCompile.cache
+E:\c2026-27_DAM2_NOW\4.- CONTENIDOS-DIN\U4.Enlace datos-interfaz_ExamenOp2\4.- Actividades\A4.1_BindingEntreControles\4.- Para AULES\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker_MarkupCompile.lref
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net10.0-windows7.0\A4.1_MemeMaker.exe
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net10.0-windows7.0\Assets\smile.ico
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net10.0-windows7.0\A4.1_MemeMaker.deps.json
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net10.0-windows7.0\A4.1_MemeMaker.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net10.0-windows7.0\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net10.0-windows7.0\A4.1_MemeMaker.pdb
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\MainWindow.g.cs
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\App.g.cs
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker_Content.g.cs
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker_MarkupCompile.cache
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker_MarkupCompile.lref
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\MainWindow.baml
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.g.resources
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\refint\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.pdb
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_MemeMaker.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\ref\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\2026_Lab1\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net10.0-windows7.0\A4.1_Mem.6E0B4427.Up2Date
